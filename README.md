@@ -12,7 +12,7 @@ Welcome to the [SDF10] API Learning Reflection! Through this exercise, you will 
 
 3. **Components and Types of APIs**: Can you identify the main components of an API and describe their roles? Reflect on the different types of APIs mentioned (e.g., Web APIs, RESTful APIs) and discuss which type you find most intriguing or useful, and why.
 
-[Your answer goes here]
+[RESTFUL APIs is a style that allows developers to access web services in an easy and consistent way, and Web APIs make use of data from various sources. I find the Web APIs more useful as it gives you most of the easier access to data.]
 
 4. **Practical Application and Tools**: Reflect on your experience with API exploration and implementation. Have you used any specific tools (such as Curl or API exploration tools) or libraries to interact with APIs? 
 
@@ -20,4 +20,4 @@ Welcome to the [SDF10] API Learning Reflection! Through this exercise, you will 
 
 5. **Learning and Improvement**: Considering the key concepts and your practical experiences, identify one area related to APIs where you feel confident and one area where you see a need for improvement. What steps will you take to enhance your understanding and skills in the area you wish to improve?
 
-[Your answer goes here]
+[I need to learn how to learn more APIs in order to use it more in my projects, and more ways to learn how to use CuRL commands and more tools.]
