@@ -4,11 +4,11 @@ Welcome to the [SDF10] API Learning Reflection! Through this exercise, you will 
 
 1. **Understanding and Application**: Reflecting on the key concepts, can you explain in your own words what an API is and its significance in software development? Provide an example of how you have used or encountered an API in a project or a practical scenario.
 
-[Your answer goes here]
+[API(application programming interface) a software mediator that allows two or more applications to talk to each other.]
 
 2. **Conceptual Distinctions**: How would you differentiate between an interface and an API? 
 
-[Your answer goes here]
+[the interface, is what the user sees, and API(Application Programming Interface) , is used to communicate with the underlying application or system.]
 
 3. **Components and Types of APIs**: Can you identify the main components of an API and describe their roles? Reflect on the different types of APIs mentioned (e.g., Web APIs, RESTful APIs) and discuss which type you find most intriguing or useful, and why.
 
