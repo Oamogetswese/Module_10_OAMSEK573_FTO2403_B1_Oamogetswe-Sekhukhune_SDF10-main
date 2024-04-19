@@ -16,7 +16,7 @@ Welcome to the [SDF10] API Learning Reflection! Through this exercise, you will 
 
 4. **Practical Application and Tools**: Reflect on your experience with API exploration and implementation. Have you used any specific tools (such as Curl or API exploration tools) or libraries to interact with APIs? 
 
-[Your answer goes here]
+[Yes I have used tools like curl to transfer data using various network protocols. Also SoapUI to help me write, run, integrate, and automate advanced API Tests in my projects.]
 
 5. **Learning and Improvement**: Considering the key concepts and your practical experiences, identify one area related to APIs where you feel confident and one area where you see a need for improvement. What steps will you take to enhance your understanding and skills in the area you wish to improve?
 
